@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Nayak</h1>
 
-<h3 align="center">Final Year B.Tech CSE (AI & ML) Student | Aspiring Software Developer</h3>
+<h3 align="center">Final Year B.Tech CSE Student | Aspiring Software Developer</h3>
 
 <p align="center">
 Focused on building real-world projects, learning modern technologies, and becoming industry ready.
@@ -39,33 +39,6 @@ Focused on building real-world projects, learning modern technologies, and becom
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Thunder%20Client-5A29E4?style=for-the-badge&logo=thunderbird&logoColor=white"/>
 </p>
-
----
-
-## 🚧 Featured Project
-
-## 🏫 Smart Campus Complaint & Maintenance System
-
-A smart platform where students can report campus issues with images and details.  
-Admin can assign workers, track progress, and manage complaint resolution efficiently.
-
-✨ Features:
-- Student Complaint Portal  
-- Admin Dashboard  
-- Worker Assignment  
-- Live Status Tracking  
-- Notifications  
-- Image Upload  
-
----
-
-## 📈 Current Focus
-
-- 🚀 Building Full Stack Projects  
-- 📚 Strengthening Backend Skills  
-- 🧩 Solving DSA Daily  
-- 💼 Preparing for Internships & Jobs  
-- ⚡ Learning Industry Workflow  
 
 ---
 
