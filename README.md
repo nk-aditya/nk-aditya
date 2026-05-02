@@ -14,11 +14,11 @@ Focused on building real-world projects, learning modern technologies, and becom
 
 ## 🚀 About Me
 
-- 🎓 Final Year B.Tech Student  
-- 💻 Learning Full Stack Development  
-- 🧠 Practicing DSA & Problem Solving  
-- ⚙️ Interested in Backend Systems  
-- 🎯 Goal: Become a Software Development Engineer  
+🎓 Final Year B.Tech Student  
+💻 Learning Full Stack Development  
+🧠 Practicing DSA & Problem Solving  
+⚙️ Interested in Backend Systems  
+🎯 Goal: Become a Software Development Engineer  
 
 ---
 
@@ -44,7 +44,7 @@ Focused on building real-world projects, learning modern technologies, and becom
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/aditya-nayak3">
 <img src="https://skillicons.dev/icons?i=linkedin" width="46" />
 </a>
